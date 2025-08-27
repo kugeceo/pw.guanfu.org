@@ -4,7 +4,10 @@
 
 ## 项目介绍
 
-冠富一键智能抠图是一款基于Web的在线图像分割工具，支持在浏览器内快速实现图像背景移除与替换，无需上传图片至服务器，保护用户隐私的同时提供高效的抠图体验。冠富物联网 万物互联 机器视觉 识物抠图 Object cutout， Image matting Image matting online Image cutout Image segmentation 在线抠图 抠图app
+冠富一键智能抠图是一款基于Web的在线图像分割工具，支持在浏览器内快速实现图像背景移除与替换，无需上传图片至服务器，保护用户隐私的同时提供高效的抠图体验。
+
+![演示](https://github.com/kugeceo/pw.guanfu.org/blob/main/previewImage.jpg)
+冠富物联网 万物互联 机器视觉 识物抠图 Object cutout， Image matting Image matting online Image cutout Image segmentation 在线抠图 抠图app
 
 MIME 类型 application/wasm .wasm application/terraform .tf MIME类型会将文件扩展名与文件类型关联起来。通常，这用于为常见的文件类型创建自定义的文件扩展名。
 
