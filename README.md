@@ -57,7 +57,7 @@ TensorFlow 定义：TensorFlow 是由 Google 开发的一个开源机器学习�
 - 前端框架：Vue.js
 - 图像处理：TensorFlow.js、WebAssembly
 - 样式解决方案：CSS/SCSS
-- 部署平台：Netlify
+- 部署平台：Netlify、 vercel
 - 图标库：Font Awesome
 
 ## 本地部署
